@@ -36,7 +36,7 @@ This is only achievable by external power off and on again.
 - 1 or 2 resistors
 
 ## More information
-See [user-guide.md](doc/user_guide.md)
+See [user-guide.md](doc/user-guide.md)
 
 
 > Written with [StackEdit](https://stackedit.io/).
