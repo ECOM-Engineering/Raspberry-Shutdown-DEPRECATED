@@ -1,5 +1,5 @@
 
-## Project 
+## Project DEPRECATED - will be replaced for new raspberry OS (Debian 11 +)
 The **s_shut project** describes a very simple system in order to shut down Raspberry Pi safely. It consists of a Python 3.x script *s_shut.py*, a simple schematic and this description.  
 This project is tested in Raspberry models 3, 3B, 4B, zero-wh under raspbian V10 and above.  
 The python script uses the awesome [libgpio](https://git.kernel.org/pub/scm/libs/libgpiod/libgpiod.git/about/) library 
